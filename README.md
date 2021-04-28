@@ -1,2 +1,2 @@
 # berserker
-Android架构 berserker架构
+Android架构 berserker
